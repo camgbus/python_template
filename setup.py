@@ -1,5 +1,7 @@
 from setuptools import setup, find_packages
 
+# TODO: replace the first four fields and 'pt' by the name of the root folder
+
 setup(
     name='python_template',
     version='0.1',
